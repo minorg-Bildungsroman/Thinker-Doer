@@ -1,5 +1,6 @@
 ---
 description:
+    "@type": http://purl.org/dc/dcmitype/Text
     bibliographicCitation: "Alexander, Christopher (1979). The Timeless Way of Building. Oxford University Press. ISBN 978-0-19-502402-9."
     creatorLiteral: "Christopher Alexander"
     rights: http://rightsstatements.org/vocab/InC/1.0/

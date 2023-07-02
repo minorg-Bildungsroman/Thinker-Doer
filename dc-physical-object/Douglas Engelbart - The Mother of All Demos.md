@@ -1,5 +1,6 @@
 ---
 description:
+  "@type": http://purl.org/dc/dcmitype/Text
   bibliographicCitation: "Augmenting Human Intellect: A Conceptual Framework. Douglas C. Engelbart, Summary Report, Stanford Research Institute, on Contract AF 49(638)-1024, October 1962, 134 pages. (AUGMENT,3906,)."
   creator: md-foaf-person:Douglas%20Engelbart
   relation: http://dougengelbart.org/content/view/138/

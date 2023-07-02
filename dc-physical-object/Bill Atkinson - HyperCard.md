@@ -1,6 +1,7 @@
 ---
 creator: md-foaf-person:Bill%20Atkinson
 description:
+  "@type": http://purl.org/dc/dcmitype/Text
   creatorLiteral: Steven Levy
   rights: http://rightsstatements.org/vocab/InC/1.0/
   rightsHolderLiteral: Condé Nast

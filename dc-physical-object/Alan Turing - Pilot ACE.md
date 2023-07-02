@@ -1,6 +1,7 @@
 ---
 creator: md-foaf-person:Alan%20Turing
 description:
+  "@type": http://purl.org/dc/dcmitype/Text
   bibliographicCitation: "Maurice V. Wilkes. Computers then and now. ACM Turing award lectures. Association for Computing Machinery, New York, NY, USA, 1967. DOI:https://doi.org/10.1145/1283920.1283922"
   creator: md-foaf-person:Maurice%20Wilkes
   rights: http://rightsstatements.org/vocab/InC/1.0/

@@ -1,5 +1,6 @@
 ---
 description:
+  "@type": http://purl.org/dc/dcmitype/Text 
   creatorLiteral: Steve Jobs
 creator: md-foaf-person:Leonardo%20da%20Vinci
 ---

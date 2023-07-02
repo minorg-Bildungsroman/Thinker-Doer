@@ -1,5 +1,6 @@
 ---
 description:
+    "@type": http://purl.org/dc/dcmitype/Text
     bibliographicCitation: "Niklaus Wirth. 1985. From programming language design to computer construction. Commun. ACM 28, 2 (Feb. 1985), 160–164. DOI:https://doi.org/10.1145/2786.2789"
     creator: md-foaf-person:Niklaus%20Wirth
     rights: http://rightsstatements.org/vocab/InC/1.0/
